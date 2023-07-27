@@ -1,0 +1,7 @@
+Project - Restaurant Management System using dart CLI
+
+Group Members:
+
+1) Muhammad Hammad
+2) Muhammad Huzaifa
+3) Hassam Siddiqui
